@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pic/icon">
+        <file>open.png</file>
+        <file>print.png</file>
+    </qresource>
+</RCC>
